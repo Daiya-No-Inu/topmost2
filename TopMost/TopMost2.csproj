@@ -90,6 +90,7 @@
   <ItemGroup>
     <Compile Include="API.cs" />
     <Compile Include="ArgsProcess.cs" />
+    <Compile Include="Config.cs" />
     <Compile Include="Registry.cs" />
     <Compile Include="GlobalKeyboardHook.cs" />
     <Compile Include="OptionsForm.cs">

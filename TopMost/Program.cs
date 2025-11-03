@@ -22,6 +22,7 @@ namespace TopMost2
 
             OptionsForm = new OptionsForm(); // Dont use `Application.Run(...);`. We want to hide the form
 
+            new Config();
 
             Application.Run();
         }
